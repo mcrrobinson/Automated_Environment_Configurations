@@ -22,7 +22,7 @@ apt upgrade -y
 cd /tmp
 apt-get install -y git curl
 apt-get install -y build-essential autoconf libtool pkg-config
-apt-get install -y libgflags-dev libgtest-dev
+apt-get install -y libgflags-dev libgtest-dev libssl-dev
 apt-get install -y clang libc++-dev
 git clone -b $(curl -L https://grpc.io/release) https://github.com/grpc/grpc
 cd grpc
