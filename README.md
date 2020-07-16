@@ -1,6 +1,6 @@
 # Automated Environment Configurations
 
-Lei Mao
+NVIDIA-Docker forked from leimao.
 
 ## Introduction
 
